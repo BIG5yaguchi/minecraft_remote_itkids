@@ -15,7 +15,7 @@
 7. 壁、階段を作る
 8. ピラミッドを作る
 
-[<img src="./images/kadai.png" width="400">](./images/kadai.png)
+![Alt text](2023-05-20_12.08.03.png)
 
 ```minecraft
 /tp 0 80 0
